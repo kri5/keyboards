@@ -170,7 +170,6 @@ F 3 "" H 1650 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 1800 2550
-Connection ~ 1500 2550
 Wire Wire Line
 	1400 2550 1500 2550
 $Comp
@@ -209,7 +208,6 @@ Text GLabel 1400 3350 0    60   Input ~ 0
 Col-0
 Connection ~ 1500 1200
 Connection ~ 1000 1200
-Connection ~ 1400 1200
 Connection ~ 1400 3350
 Connection ~ 1400 3050
 Connection ~ 1500 3050
@@ -217,9 +215,6 @@ Connection ~ 1400 2550
 Wire Wire Line
 	1500 1550 1400 1550
 Connection ~ 1400 1550
-Connection ~ 1400 2700
-Connection ~ 1400 2200
-Connection ~ 1400 1700
 Connection ~ 1400 2050
 Connection ~ 1500 1700
 Wire Wire Line
@@ -321,14 +316,10 @@ Wire Wire Line
 Text GLabel 1900 3350 0    60   Input ~ 0
 Col-1
 Connection ~ 2000 1200
-Connection ~ 1900 1200
 Connection ~ 1900 3350
 Wire Wire Line
 	2000 1550 1900 1550
 Connection ~ 1900 1550
-Connection ~ 1900 2700
-Connection ~ 1900 2200
-Connection ~ 1900 1700
 Connection ~ 1900 2050
 Connection ~ 2000 1700
 $Comp
@@ -446,7 +437,6 @@ F 3 "" H 2650 2550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 2800 2550
-Connection ~ 2500 2550
 Wire Wire Line
 	2400 2550 2500 2550
 $Comp
@@ -481,7 +471,6 @@ Wire Wire Line
 Text GLabel 2400 3350 0    60   Input ~ 0
 Col-2
 Connection ~ 2500 1200
-Connection ~ 2400 1200
 Connection ~ 2400 3350
 Connection ~ 2400 3050
 Connection ~ 2500 3050
@@ -489,9 +478,6 @@ Connection ~ 2400 2550
 Wire Wire Line
 	2500 1550 2400 1550
 Connection ~ 2400 1550
-Connection ~ 2400 2700
-Connection ~ 2400 2200
-Connection ~ 2400 1700
 Connection ~ 2400 2050
 Connection ~ 2500 1700
 $Comp
@@ -612,19 +598,14 @@ Connection ~ 3300 2550
 Connection ~ 3000 2550
 Wire Wire Line
 	2900 2550 3000 2550
-Connection ~ 3000 2700
 Text GLabel 2900 3350 0    60   Input ~ 0
 Col-3
 Connection ~ 3000 1200
-Connection ~ 2900 1200
 Connection ~ 2900 3350
 Connection ~ 2900 2550
 Wire Wire Line
 	3000 1550 2900 1550
 Connection ~ 2900 1550
-Connection ~ 2900 2700
-Connection ~ 2900 2200
-Connection ~ 2900 1700
 Connection ~ 2900 2050
 Connection ~ 3000 1700
 $Comp
@@ -745,19 +726,14 @@ Connection ~ 3800 2550
 Connection ~ 3500 2550
 Wire Wire Line
 	3400 2550 3500 2550
-Connection ~ 3500 2700
 Text GLabel 3400 3350 0    60   Input ~ 0
 Col-4
 Connection ~ 3500 1200
-Connection ~ 3400 1200
 Connection ~ 3400 3350
 Connection ~ 3400 2550
 Wire Wire Line
 	3500 1550 3400 1550
 Connection ~ 3400 1550
-Connection ~ 3400 2700
-Connection ~ 3400 2200
-Connection ~ 3400 1700
 Connection ~ 3400 2050
 Connection ~ 3500 1700
 $Comp
@@ -878,19 +854,14 @@ Connection ~ 4300 2550
 Connection ~ 4000 2550
 Wire Wire Line
 	3900 2550 4000 2550
-Connection ~ 4000 2700
 Text GLabel 3900 3350 0    60   Input ~ 0
 Col-5
 Connection ~ 4000 1200
-Connection ~ 3900 1200
 Connection ~ 3900 3350
 Connection ~ 3900 2550
 Wire Wire Line
 	4000 1550 3900 1550
 Connection ~ 3900 1550
-Connection ~ 3900 2700
-Connection ~ 3900 2200
-Connection ~ 3900 1700
 Connection ~ 3900 2050
 Connection ~ 4000 1700
 $Comp
@@ -1011,19 +982,14 @@ Connection ~ 4800 2550
 Connection ~ 4500 2550
 Wire Wire Line
 	4400 2550 4500 2550
-Connection ~ 4500 2700
 Text GLabel 4400 3350 0    60   Input ~ 0
 Col-6
 Connection ~ 4500 1200
-Connection ~ 4400 1200
 Connection ~ 4400 3350
 Connection ~ 4400 2550
 Wire Wire Line
 	4500 1550 4400 1550
 Connection ~ 4400 1550
-Connection ~ 4400 2700
-Connection ~ 4400 2200
-Connection ~ 4400 1700
 Connection ~ 4400 2050
 Connection ~ 4500 1700
 $Comp
@@ -1176,7 +1142,6 @@ Wire Wire Line
 Text GLabel 4900 3350 0    60   Input ~ 0
 Col-7
 Connection ~ 5000 1200
-Connection ~ 4900 1200
 Connection ~ 4900 3350
 Connection ~ 4900 3050
 Connection ~ 5000 3050
@@ -1184,9 +1149,6 @@ Connection ~ 4900 2550
 Wire Wire Line
 	5000 1550 4900 1550
 Connection ~ 4900 1550
-Connection ~ 4900 2700
-Connection ~ 4900 2200
-Connection ~ 4900 1700
 Connection ~ 4900 2050
 Connection ~ 5000 1700
 $Comp
@@ -1307,20 +1269,15 @@ Connection ~ 5800 2550
 Connection ~ 5500 2550
 Wire Wire Line
 	5400 2550 5500 2550
-Connection ~ 5500 2700
 Text GLabel 5400 3350 0    60   Input ~ 0
 Col-8
 Connection ~ 5500 1200
-Connection ~ 5400 1200
 Connection ~ 5400 3350
 Connection ~ 5400 3050
 Connection ~ 5400 2550
 Wire Wire Line
 	5500 1550 5400 1550
 Connection ~ 5400 1550
-Connection ~ 5400 2700
-Connection ~ 5400 2200
-Connection ~ 5400 1700
 Connection ~ 5400 2050
 Connection ~ 5500 1700
 $Comp
@@ -1441,19 +1398,14 @@ Connection ~ 6300 2550
 Connection ~ 6000 2550
 Wire Wire Line
 	5900 2550 6000 2550
-Connection ~ 6000 2700
 Text GLabel 5900 3350 0    60   Input ~ 0
 Col-9
 Connection ~ 6000 1200
-Connection ~ 5900 1200
 Connection ~ 5900 3350
 Connection ~ 5900 2550
 Wire Wire Line
 	6000 1550 5900 1550
 Connection ~ 5900 1550
-Connection ~ 5900 2700
-Connection ~ 5900 2200
-Connection ~ 5900 1700
 Connection ~ 5900 2050
 Connection ~ 6000 1700
 $Comp
@@ -1606,7 +1558,6 @@ Wire Wire Line
 Text GLabel 6400 3350 0    60   Input ~ 0
 Col-10
 Connection ~ 6500 1200
-Connection ~ 6400 1200
 Connection ~ 6400 3350
 Connection ~ 6400 3050
 Connection ~ 6500 3050
@@ -1614,9 +1565,6 @@ Connection ~ 6400 2550
 Wire Wire Line
 	6500 1550 6400 1550
 Connection ~ 6400 1550
-Connection ~ 6400 2700
-Connection ~ 6400 2200
-Connection ~ 6400 1700
 Connection ~ 6400 2050
 Connection ~ 6500 1700
 $Comp
@@ -1769,7 +1717,6 @@ Wire Wire Line
 Text GLabel 6900 3350 0    60   Input ~ 0
 Col-11
 Connection ~ 7000 1200
-Connection ~ 6900 1200
 Connection ~ 6900 3350
 Connection ~ 6900 3050
 Connection ~ 7000 3050
@@ -1777,9 +1724,6 @@ Connection ~ 6900 2550
 Wire Wire Line
 	7000 1550 6900 1550
 Connection ~ 6900 1550
-Connection ~ 6900 2700
-Connection ~ 6900 2200
-Connection ~ 6900 1700
 Connection ~ 6900 2050
 Connection ~ 7000 1700
 $Comp
@@ -1873,16 +1817,12 @@ Wire Wire Line
 Text GLabel 7400 3350 0    60   Input ~ 0
 Col-12
 Connection ~ 7500 1200
-Connection ~ 7400 1200
 Connection ~ 7400 3350
 Connection ~ 7400 3050
 Connection ~ 7500 3050
 Wire Wire Line
 	7500 1550 7400 1550
 Connection ~ 7400 1550
-Connection ~ 7400 2700
-Connection ~ 7400 2200
-Connection ~ 7400 1700
 $Comp
 L MX SW3-13
 U 1 1 56329122
@@ -1948,7 +1888,6 @@ Connection ~ 7900 3350
 Connection ~ 7900 3050
 Connection ~ 8000 3050
 Connection ~ 7900 2550
-Connection ~ 7900 2700
 $Comp
 L MX SW0-14
 U 1 1 56329158
@@ -2099,7 +2038,6 @@ Wire Wire Line
 Text GLabel 8400 3350 0    60   Input ~ 0
 Col-14
 Connection ~ 8500 1200
-Connection ~ 8400 1200
 Connection ~ 8400 3350
 Connection ~ 8400 3050
 Connection ~ 8500 3050
@@ -2107,9 +2045,6 @@ Connection ~ 8400 2550
 Wire Wire Line
 	8500 1550 8400 1550
 Connection ~ 8400 1550
-Connection ~ 8400 2700
-Connection ~ 8400 2200
-Connection ~ 8400 1700
 Connection ~ 8400 2050
 Connection ~ 8500 1700
 $Comp
@@ -2262,7 +2197,6 @@ Wire Wire Line
 Text GLabel 8900 3350 0    60   Input ~ 0
 Col-15
 Connection ~ 9000 1200
-Connection ~ 8900 1200
 Connection ~ 8900 3350
 Connection ~ 8900 3050
 Connection ~ 9000 3050
@@ -2270,18 +2204,13 @@ Connection ~ 8900 2550
 Wire Wire Line
 	9000 1550 8900 1550
 Connection ~ 8900 1550
-Connection ~ 8900 2700
-Connection ~ 8900 2200
-Connection ~ 8900 1700
 Connection ~ 8900 2050
 Connection ~ 9000 1700
 Wire Wire Line
-	7900 700  7900 3350
-Connection ~ 7900 700 
-Connection ~ 7900 1200
-Connection ~ 7900 1700
-Wire Wire Line
 	1000 2200 9000 2200
-Connection ~ 7900 2200
 Connection ~ 2900 4800
+Connection ~ 1500 2550
+Connection ~ 2500 2550
+Wire Wire Line
+	7900 2550 7900 3350
 $EndSCHEMATC
